@@ -1,0 +1,31 @@
+.aboutUs {
+    align-items: center;
+}
+
+.aboutUs h1{
+    color:  #21325e;
+    margin-left: 45%;
+    margin-bottom: 10%;
+    text-decoration-line: underline;  
+}
+
+
+.aboutUs h2{
+    color:  #21325e;
+    margin-left: 43%;
+    margin-bottom: 3%;
+}
+
+.aboutUs p{
+    color:  #21325e;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-bottom: 3%;
+}
+
+.aboutUs p1{
+    color:  #21325e;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-bottom: 10%;
+}

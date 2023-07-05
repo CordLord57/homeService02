@@ -1,0 +1,16 @@
+.container-contact100{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+
+    font-size: 20px;
+    
+}
+.container-contact100 form{
+    border-radius: 17px;
+background: #d6d6d6;
+box-shadow:  5px 5px 10px #d0d0d0,
+             -5px -5px 10px #f0f0f0;
+}
+.container-contact100 span{
+ color: rgb(64, 30, 91);
+}
